@@ -1,0 +1,6 @@
+projectKey=dvn5093a_sae_2025_sagnes_murillo_duval_fernandes_bournazel_bbc0aff9-f271-4411-bfe2-4c57b835ce7b
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=dvn5093a_sae_2025_sagnes_murillo_duval_fernandes_bournazel_bbc0aff9-f271-4411-bfe2-4c57b835ce7b
+ceTaskId=a3eaf6a7-7930-490a-878a-e1882cdd3a11
+ceTaskUrl=http://localhost:9000/api/ce/task?id=a3eaf6a7-7930-490a-878a-e1882cdd3a11

@@ -1,0 +1,5 @@
+autoEnabled=true
+bindingSuggestionsDisabled=false
+eclipse.preferences.version=1
+fileExclusions=FILE\:src/controleur/ajouter/GestionFenAjouterIRL.java\r\nFILE\:src/controleur/consulter_informations/fen_bien_louable/GestionFenConsulterEtatDesLieux.java
+indexingBasedOnEclipsePlugIns=true
