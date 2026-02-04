@@ -43,7 +43,7 @@ public class GestionConnexion implements ActionListener {
 			String password = fenetre.getValeurPasswordField();
 			if (login.equals("Millan") && password.equals("$iutinfo")) {
 				try {
-					UtOracleDataSource.creerAcces("mrn5206a", "sae2526D4");
+					UtOracleDataSource.creerAcces("", ""); // Les login et mot de passe ont été retirés pour des raisons de confidentialiés
 					// Rend le contenu visible et met à jour le label utilisateur
 					this.daoBL = new DaoBienLouable();
 					this.daoLouer = new DaoLouer();
