@@ -25,7 +25,7 @@ Deuxième année, groupe D
 INFORMATIONS DE CONNEXION
 ---------------------------------------------------------------------
 
-PRIVE
+La connexion est rendue impossible pour des raisons de confidentialité
 
 
 
